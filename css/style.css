@@ -838,6 +838,10 @@ input, button, textarea, select{
   margin-right: 1rem;
 }
 
+.mr-3 {
+  margin-right: 0.75rem;
+}
+
 .block {
   display: block;
 }
@@ -1466,6 +1470,11 @@ input, button, textarea, select{
 .text-\[\#2CBDE7\] {
   --tw-text-opacity: 1;
   color: rgba(44, 189, 231, var(--tw-text-opacity));
+}
+
+.text-red-800 {
+  --tw-text-opacity: 1;
+  color: rgba(153, 27, 27, var(--tw-text-opacity));
 }
 
 .underline {
